@@ -1,7 +1,5 @@
 package contests.`7`
 
-import jdk.internal.ffi.generated.kqueue.kevent.data
-
 fun solve1() {
     val numbers = listOf(2, 5, 25, 1089, 4)
     val value = with(numbers) {
