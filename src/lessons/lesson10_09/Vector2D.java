@@ -1,3 +1,5 @@
+package lessons.lesson10_09;
+
 import java.util.Locale;
 
 public class Vector2D {
